@@ -28,4 +28,4 @@
 Contributions are welcome! Whether you want to improve the UI, add new features, or fix bugs, your input is valuable. Let's make To-Do App the best it can be!
 
 🌟 Explore the Demo:
-[To-Do App Demo](https://nik6348.github.io/TO-DO-APP/) 
+[To-Do App Demo](https://nik6348.github.io/To-Do-APP/) 
