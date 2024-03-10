@@ -70,8 +70,7 @@ function updateTask(oldTitle, oldStatus) {
         title: updatedTitle,
         description: updatedDescription,
         date: updatedDate,
-        status: updatedStatus;,MK
-        l
+        status: updatedStatus
     };
 
     if (updatedTitle.trim() == '' || updatedDescription.trim() == '' || updatedDate.trim() == '') {
